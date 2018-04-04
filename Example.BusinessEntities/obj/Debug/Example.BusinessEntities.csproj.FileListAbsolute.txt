@@ -1,0 +1,6 @@
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.BusinessEntities.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.BusinessEntities.pdb
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.BusinessEntities.csproj.CoreCompileInputs.cache
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.BusinessEntities.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.BusinessEntities.pdb

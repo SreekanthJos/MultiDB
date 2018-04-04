@@ -1,0 +1,6 @@
+D:\Learnings\WebApplication1\Example.DataAccess\bin\Debug\Example.DataAccess.dll
+D:\Learnings\WebApplication1\Example.DataAccess\bin\Debug\Example.DataAccess.pdb
+D:\Learnings\WebApplication1\Example.DataAccess\obj\Debug\Example.DataAccess.csprojResolveAssemblyReference.cache
+D:\Learnings\WebApplication1\Example.DataAccess\obj\Debug\Example.DataAccess.csproj.CoreCompileInputs.cache
+D:\Learnings\WebApplication1\Example.DataAccess\obj\Debug\Example.DataAccess.dll
+D:\Learnings\WebApplication1\Example.DataAccess\obj\Debug\Example.DataAccess.pdb

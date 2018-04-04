@@ -1,0 +1,12 @@
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.BusinessEntities.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.BusinessEntities.pdb
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.DTOs.csprojResolveAssemblyReference.cache
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.DTOs.csproj.CoreCompileInputs.cache
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.BusinessEntities.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\obj\Debug\Example.BusinessEntities.pdb
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\AutoMapper.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.DataAccess.Azure.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.DataAccess.dll
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.DataAccess.Azure.pdb
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\Example.DataAccess.pdb
+D:\Learnings\WebApplication1\Example.BusinessEntities\bin\Debug\AutoMapper.xml
